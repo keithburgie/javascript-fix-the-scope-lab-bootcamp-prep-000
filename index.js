@@ -23,7 +23,5 @@ var funkyFunction = function() {
   }
 }
 
-var theFunk = function() {
-  return funkyFunction();
-}
-theFunk();
+var theFunk  = funkyFunction();
+theFunk;
